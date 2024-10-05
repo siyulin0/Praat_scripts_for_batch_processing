@@ -9,7 +9,9 @@
 
 
 form Get duration
+    comment Name output file
     sentence outFile total_durations.txt
+    comment Set directory
     sentence dirName C:/Users/
 endform
 
