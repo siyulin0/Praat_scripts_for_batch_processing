@@ -1,3 +1,13 @@
+###################################################
+#
+#
+# Change gender for all files in a folder 
+# It allows the built-in function, ChangeGender, to batch process
+#
+# updated 10/04/2024 SL
+# 
+####################################################
+
 
 form Change gender
     sentence inputdir C:/Users
