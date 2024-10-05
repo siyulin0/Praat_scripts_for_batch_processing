@@ -8,7 +8,7 @@
 ####################################################
 
 
-form Set directories for input and output and duration of silence
+form Add silence at the end
     sentence inputdir C:/Users/
     sentence outputdir C:/Users/
     positive duration_of_silence # Duration of silence (in seconds)
