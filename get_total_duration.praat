@@ -8,7 +8,7 @@
 ####################################################
 
 
-form Input Enter directory and output file name
+form Get duration
     sentence outFile total_durations.txt
     sentence dirName C:/Users/
 endform
