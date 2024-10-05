@@ -7,6 +7,7 @@
 # 
 ####################################################
 
+
 form 
     Set directories for input and output and duration of silence
     sentence inputdir C:/Users/
