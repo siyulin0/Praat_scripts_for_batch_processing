@@ -1,3 +1,13 @@
+###################################################
+#
+#
+# Get the total duration of a sound file for all files in a folder 
+# 
+# updated 10/04/2024 SL
+# 
+####################################################
+
+
 form Input Enter directory and output file name
     sentence outFile total_durations.txt
     sentence dirName C:/Users/
