@@ -1,4 +1,14 @@
-form Set directories for input and output and duration of silence
+###################################################
+#
+#
+# Add silence at the end of a sound file for all files in a folder 
+# 
+# updated 10/04/2024 SL
+# 
+####################################################
+
+form 
+    Set directories for input and output and duration of silence
     sentence inputdir C:/Users/
     sentence outputdir C:/Users/
     positive duration_of_silence # Duration of silence (in seconds)
