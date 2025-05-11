@@ -1,6 +1,17 @@
+###################################################
+#
+#
+# Change gender for all files in a folder 
+# This script loads audio files from a specified folder, concatenates them into a single audio stream, applies the Change Gender function to the entire stream, then splits it back into individual files and saves each modified file to the output folder.
+#
+# updated 05/11/2025 SL
+# 
+####################################################
+
+
 form Change gender
-    sentence inputdir C:/Users/siyul/OneDrive/Desktop/Praat_script_input/
-    sentence outputdir C:/Users/siyul/OneDrive/Desktop/Praat_script_output/
+    sentence inputdir C:/Users/
+    sentence outputdir C:/Users/
     comment Pitch measurement parameters
     positive pitch_floor 75
     positive pitch_ceiling 600
