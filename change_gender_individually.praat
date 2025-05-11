@@ -40,4 +40,4 @@ for i to n
 endfor
 
 select all
-remove
+Remove
