@@ -2,9 +2,9 @@
 #
 #
 # Change gender for all files in a folder 
-# It allows the built-in function, ChangeGender, to batch process
+# This script loads audio files from a specified folder, applies the Change Gender function to each file, and saves the modified versions individually to the output folder
 #
-# updated 10/04/2024 SL
+# updated 05/11/2025 SL
 # 
 ####################################################
 
@@ -38,4 +38,6 @@ for i to n
 	#new_name$ = selected$ ("Sound")
 	Save as WAV file: "'outputdir$'/'og_name$'.wav"
 endfor
-removeObject: list
+
+select all
+remove
