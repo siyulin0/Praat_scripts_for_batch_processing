@@ -10,8 +10,8 @@
 
 
 form Change gender
-    sentence inputdir C:/Users
-    sentence outputdir C:/Users
+    sentence inputdir C:/Users/
+    sentence outputdir C:/Users/
     comment Pitch measurement parameters
     positive pitch_floor 75
     positive pitch_ceiling 600 
