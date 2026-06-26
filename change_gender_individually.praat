@@ -1,7 +1,7 @@
 ###################################################
 #
 #
-# This script can be used to load audio files from a specified folder, apply the Change Gender function to each file, and save the modified versions individually to the output folder
+# This script can be used to load audio files from a specified folder, apply the Change Gender function to each file, and save the modified versions individually to the output folder.
 #
 # updated 06/26/2026 SL
 # 
