@@ -1,10 +1,9 @@
 ###################################################
 #
+# 
+# This script can be used to load audio files from a specified folder, concatenate them into a single audio stream, apply the Change Gender function to the entire stream, then split it back into individual files and save each modified file to the output folder.
 #
-# Change gender for all files in a folder 
-# This script loads audio files from a specified folder, concatenates them into a single audio stream, applies the Change Gender function to the entire stream, then splits it back into individual files and saves each modified file to the output folder.
-#
-# updated 05/11/2025 SL
+# updated 06/26/2026 SL
 # 
 ####################################################
 
