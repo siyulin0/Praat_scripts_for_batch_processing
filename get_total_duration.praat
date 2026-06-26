@@ -1,7 +1,7 @@
 ###################################################
 #
 #
-# Get the total duration of a sound file for all files in a folder 
+# This script can be used to get the total duration of a sound file for all files in the same folder.
 # 
 # updated 10/04/2024 SL
 # 
