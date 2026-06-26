@@ -1,9 +1,9 @@
 ###################################################
 #
 #
-# Add silence at the end of a sound file for all files in a folder 
+# This script can be used to add silence at the end of a sound file for all files in a folder 
 # 
-# updated 10/04/2024 SL
+# updated 06/26/2026 SL
 # 
 ####################################################
 
