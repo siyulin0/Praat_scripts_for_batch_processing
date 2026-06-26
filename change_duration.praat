@@ -1,7 +1,7 @@
 ###################################################
 #
 #
-# This script can be used to change durations for files in the same folder
+# This script can be used to change durations for files in the same folder.
 #
 # updated 06/26/2026 SL
 # 
