@@ -1,12 +1,12 @@
 ###################################################
 #
 #
-# Change duration for all files in a folder 
 # This script can be used to change durations for files in the same folder
 #
 # updated 06/26/2026 SL
 # 
 ####################################################
+
 
 form Bulk proportional duration change
     sentence Input_folder /Users/yourname/Desktop/input/
