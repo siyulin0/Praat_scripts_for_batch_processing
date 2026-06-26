@@ -1,7 +1,7 @@
 ###################################################
 #
 #
-# This script can be used to add silence at the beginning of a sound file for all files in a folder 
+# This script can be used to add silence at the beginning of a sound file for all files in the same folder 
 # 
 # updated 06/26/2026 SL
 # 
